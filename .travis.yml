@@ -7,4 +7,4 @@ deploy:
     secure: 3fd51bf7-738c-41ec-b371-c989a2cb49e6
   app: fast-journey-7918
   on:
-    repo: filipeguelber/node-app
+    repo: LucasN7Alves/node-app
