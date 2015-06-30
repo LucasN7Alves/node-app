@@ -5,6 +5,6 @@ deploy:
   provider: heroku
   api_key:
     secure: 3fd51bf7-738c-41ec-b371-c989a2cb49e6
-  app: fast-journey-7918
+  app: api-test-lucas
   on:
     repo: LucasN7Alves/node-app
